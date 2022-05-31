@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 <!-- Octocat Gif OwO -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75204822/171148169-e2b75957-feb8-4fe8-a493-c06fbe7e636f.gif"
-  alt="Octocat Gif"
-  style="width:100px; border-radius:50%;"/>
+  <img src="[https://user-images.githubusercontent.com/75204822/171148169-e2b75957-feb8-4fe8-a493-c06fbe7e636f.gif](https://user-images.githubusercontent.com/75204822/171151681-22d3581b-43c6-4912-b69f-db9cebbc3ad4.gif)"
+  alt="Octocat Gif" />
 </p>
 
-### Whoa, a visitor! :eyes:
+### Whoa, a visitor! :eyes:!
