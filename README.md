@@ -1,7 +1,3 @@
-![octo](https://user-images.githubusercontent.com/75204822/171148169-e2b75957-feb8-4fe8-a493-c06fbe7e636f.gif)
-
-### Hi!
-
 <!--
 **FelineJTD/FelineJTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Octocat Gif OwO -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75204822/171148169-e2b75957-feb8-4fe8-a493-c06fbe7e636f.gif"
+  alt="Octocat Gif"
+  style="width:100px; border-radius:50%;"/>
+</p>
+
+### Whoa, a visitor! :eyes:
