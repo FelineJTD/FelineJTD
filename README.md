@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Octocat Gif OwO -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75204822/171151879-40cae7a9-61b1-415e-8fb2-7bc7c8824def.gif"
+  <img src="https://user-images.githubusercontent.com/75204822/171152485-22a6bf03-4e5e-4e44-b107-e7f3a8a99c48.gif"
   alt="Octocat Gif" />
 </p>
 
