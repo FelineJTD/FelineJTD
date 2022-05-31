@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, and `cats`. Most of the repositories here are school projects, with a few personal projects here and there.
 
 # About Me 😄
-- Currently looking for Web Development projects and internship opportunities
-- A third-year Informatics student in Bandung Institute of Technology (ITB)
+- Currently looking for `Web Development` projects and internship opportunities
+- A third-year `Informatics` student in Bandung Institute of Technology (ITB)
 - Would love to collaborate in all kinds of fields
 
 # Connect with Me 📫
