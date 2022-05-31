@@ -1,4 +1,6 @@
-### Hi there 👋
+![octo](https://user-images.githubusercontent.com/75204822/171148169-e2b75957-feb8-4fe8-a493-c06fbe7e636f.gif)
+
+### Hi!
 
 <!--
 **FelineJTD/FelineJTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
