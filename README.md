@@ -27,10 +27,13 @@ Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, a
 - Currently looking for `Web Development` projects and internship opportunities
 - A third-year `Informatics` student in Bandung Institute of Technology (ITB)
 - Would love to collaborate in all kinds of fields
+- Passionate about animals and environmental sustainability, open to work/volunteer opportunities regarding these things
 
 # Webdev Portfolio 🖥️
 Here are some of the websites I have made:
 - https://feliciasutandijo.my.id/
+- https://jdih.kemlu.go.id/
+- https://sedjuk.com/
 - https://braga.co.id/
 - https://paradewisudaitb.com/
 - https://mealth.netlify.app/
@@ -38,6 +41,6 @@ Here are some of the websites I have made:
 - https://deoxyde.netlify.app/
 
 # Connect with Me 📫
-[![Linkedin Badge](https://img.shields.io/badge/-FeliciaSutandijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felicia-sutandijo-57a570199/)](https://www.linkedin.com/in/felicia-sutandijo-57a570199/)
+[![Linkedin Badge](https://img.shields.io/badge/-FeliciaSutandijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felicia-sutandijo-57a570199/)](https://www.linkedin.com/in/felicia-sutandijo/)
 [![Instagram Badge](https://img.shields.io/badge/-FelineJTD-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/felinejtd/)](https://www.instagram.com/felinejtd/)
 [![Gmail Badge](https://img.shields.io/badge/-feliciasutandijo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliciasutandijo@gmail.com)](mailto:feliciasutandijo@gmail.com)
