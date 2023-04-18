@@ -35,7 +35,6 @@ Here are some of the websites I have made:
 - https://jdih.kemlu.go.id/
 - https://sedjuk.com/
 - https://braga.co.id/
-- https://paradewisudaitb.com/
 - https://mealth.netlify.app/
 - https://joyume.netlify.app/
 - https://deoxyde.netlify.app/
