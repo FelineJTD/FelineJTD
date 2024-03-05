@@ -33,6 +33,7 @@ Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, a
 Here are some of the websites I have made:
 - https://feliciasutandijo.my.id/
 - https://jdih.kemlu.go.id/
+- https://effie.boo/
 - https://sedjuk.com/
 - https://braga.co.id/
 - https://mealth.netlify.app/
