@@ -25,7 +25,7 @@ Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, a
 
 # About Me 😄
 - Currently looking for `Web Development` projects and internship opportunities
-- A third-year `Informatics` student in Bandung Institute of Technology (ITB)
+- A fourth-year `Informatics` student in Bandung Institute of Technology (ITB)
 - Would love to collaborate in all kinds of fields
 - Passionate about animals and environmental sustainability, open to work/volunteer opportunities regarding these things
 
