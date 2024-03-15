@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   alt="Octocat Gif" />
 </p>
 
-# Whoa, a visitor! ✨
+# Whoa, a Visitor! ✨
 Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, and `cats`. Most of the repositories here are school projects, with a few personal projects here and there.
 
 # About Me 😄
