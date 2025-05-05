@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </p>
 
 # Whoa, a Visitor! ✨
-Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, and `cats`. Most of the repositories here are school projects, with a few personal projects here and there.
+Welcome to my humble Github abode. My name is Feli and I love `coding`, `art`, `travel`, and `cats`. Most of the repositories here are school projects, with a few personal projects here and there. Unfortunately, professional projects are not public.
 
 # About Me 😄
 - Currently looking for `Web Development` projects and internship opportunities
-- A fourth-year `Informatics` student in Bandung Institute of Technology (ITB)
+- A fresh graduate `Informatics/Computer Science` student in Bandung Institute of Technology (ITB)
 - Would love to collaborate in all kinds of fields
 - Passionate about animals and environmental sustainability, open to work/volunteer opportunities regarding these things
 
@@ -34,11 +34,7 @@ Here are some of the websites I have made:
 - https://feliciasutandijo.my.id/
 - https://jdih.kemlu.go.id/
 - https://effie.boo/
-- https://sedjuk.com/
 - https://braga.co.id/
-- https://mealth.netlify.app/
-- https://joyume.netlify.app/
-- https://deoxyde.netlify.app/
 
 # Connect with Me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-FeliciaSutandijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felicia-sutandijo-57a570199/)](https://www.linkedin.com/in/felicia-sutandijo/)
